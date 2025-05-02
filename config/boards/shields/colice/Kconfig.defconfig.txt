@@ -1,6 +1,6 @@
 if SHIELD_COLICE
 
-config ZMK_KEYBOARD_NAME
+config ZMK_COLICE
     default "colice"
 
 endif
