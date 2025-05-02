@@ -1,0 +1,6 @@
+if SHIELD_COLICE
+
+config ZMK_KEYBOARD_NAME
+    default "colice"
+
+endif
